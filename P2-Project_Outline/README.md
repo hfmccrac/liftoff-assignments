@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I will develop an app to record meals, bathroom habits, and symptoms. It will be a food journal that provides insights to the user.
+Insights such as what kind of food or a specific food may be causing problems. It will also recommend substitutions for problematic foods.
+The idea came about from suffering from IBD and trying to manage my illness and reduce symptoms.
+I felt most food journal apps focused more on calorie counting or weight management and not overall health or managing symptoms. 
 ### Features
-Include Features here
+User login: User will be able to create an account and have a profile. Login will be secure and authenticated.
+Submission: User will be able to submit entries to record their meals, bathroom breaks, and symptoms.
+Search: User will be able to search previous entries
 ### Technologies
-Include Technologies here
+Java
+MySQL
+HTML/CSS
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn a language for building an app
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/9n3qnDoH/4cffa883f8ba00a418a2c19cbd1ca4e9/capstone-project
